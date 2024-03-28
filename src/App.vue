@@ -1,5 +1,5 @@
 <template>
-  <div>添加一个标题</div>
+  <h1>添加一个标题</h1>
 </template>
 
 <script setup lang="ts">
