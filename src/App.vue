@@ -1,21 +1,18 @@
 <template>
-  <div class="box">
-    <h1>我是app</h1>
-  </div>
+
+<div></div>
+
 </template>
 
-<script setup lang="ts">
+<script setup lang='ts'>
 import { ref } from 'vue'
+for(let i=0;i<10;i++)
+{
+  console.log("122")
+}
+
 </script>
 
 <style scoped>
-.box {
-  width: 600px;
-  height: 400px;
-  background-color: black;
 
-  h1 {
-    color: white;
-  }
-}
 </style>
