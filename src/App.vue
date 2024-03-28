@@ -1,18 +1,12 @@
 <template>
-
-<div></div>
-
+  <div></div>
 </template>
 
-<script setup lang='ts'>
+<script setup lang="ts">
 import { ref } from 'vue'
-for(let i=0;i<10;i++)
-{
-  console.log("122")
+for (let i = 0; i < 10; i++) {
+  console.log('122')
 }
-
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
